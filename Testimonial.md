@@ -1,0 +1,3 @@
+# Project Testimonial
+
+"Building Aether-Flow using IBM watsonx.ai and Granite 3.2 models has been a transformative experience. The enterprise-grade governance of the watsonx platform allowed me to develop a secure, hybrid RAG system that bridges the gap between local file privacy and powerful cloud inference. The reasoning capabilities of the Granite models were instrumental in executing complex tool-calling logic for my 'Map-to-Path' retrieval strategy, delivering the zero-latency performance I aimed for. This project has significantly deepened my expertise in Agentic AI and scalable system architecture."
