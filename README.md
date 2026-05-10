@@ -45,6 +45,8 @@ Traditional RAG systems often struggle with:
 4.  **Aether-Flow File Reader:** A custom Python component executes a direct OS-level read.
 5.  **Context Synthesis:** The agent processes the raw content and provides a formatted, accurate response.
 
+![Aether-Flow System Architecture](architecture_diagram.png)
+
 ---
 
 ## 🔮 Future Scope
